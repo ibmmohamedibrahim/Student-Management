@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Student-Management/static/css/main.9345b6e2.css",
+    "main.js": "/Student-Management/static/js/main.38f566de.js",
+    "index.html": "/Student-Management/index.html",
+    "main.9345b6e2.css.map": "/Student-Management/static/css/main.9345b6e2.css.map",
+    "main.38f566de.js.map": "/Student-Management/static/js/main.38f566de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9345b6e2.css",
+    "static/js/main.38f566de.js"
+  ]
+}
